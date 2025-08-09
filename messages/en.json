@@ -1,11 +1,11 @@
 {
   "HomePage": {
-    "HeroListItem1": "Get started by editing",
+    "HeroListItem1": "Get started by editing {editPath}",
     "HeroListItem2": "Save and see your changes instantly.",
     "DeployButton": "Deploy now",
     "ReadOurDocsButton": "Read our docs",
     "FooterListItem1": "Learn",
     "FooterListItem2": "Examples",
-    "FooterListItem3": "Go to"
+    "FooterListItem3": "Go to {nextJsWebsite}"
   }
 }
