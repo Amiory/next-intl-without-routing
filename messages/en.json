@@ -1,6 +1,6 @@
 {
   "HomePage": {
-    "HeroListItem1": "Get started by editing {editPath}",
+    "HeroListItem1": "Get started by editing <code>{editPath}</code>.",
     "HeroListItem2": "Save and see your changes instantly.",
     "DeployButton": "Deploy now",
     "ReadOurDocsButton": "Read our docs",
