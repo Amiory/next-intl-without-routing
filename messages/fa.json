@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "HeroListItem1": "با ویرایش <code>{editPath}</code> شروع کنید.",
+    "HeroListItem2": "ذخیره کنید و تغییرات را بلافاصله ببینید.",
+    "DeployButton": "اکنون منتشر کنید",
+    "ReadOurDocsButton": "مطالعه مستندات ما",
+    "FooterListItem1": "یادگیری",
+    "FooterListItem2": "نمونه‌ها",
+    "FooterListItem3": "برو به {nextJsWebsite}"
+  }
+}
